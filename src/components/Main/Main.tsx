@@ -3,6 +3,7 @@ import {
     BrowserRouter,
 } from "react-router-dom";
 import Header from "../Header";
+import Footer from "../Footer";
 import { MainCSS } from './styled';
 
 type Props = {
@@ -17,7 +18,7 @@ const Main = (props: Props): JSX.Element => {
             <BrowserRouter>
                 <Header />
                 <div>{children}</div>
-                <footer>Footer</footer>
+                <Footer />
             </BrowserRouter>
         </MainCSS>
     )
