@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/convertido-app/static/js/main.601529bb.js",
+    "main.js": "/convertido-app/static/js/main.12a8bf93.js",
     "index.html": "/convertido-app/index.html",
-    "main.601529bb.js.map": "/convertido-app/static/js/main.601529bb.js.map"
+    "main.12a8bf93.js.map": "/convertido-app/static/js/main.12a8bf93.js.map"
   },
   "entrypoints": [
-    "static/js/main.601529bb.js"
+    "static/js/main.12a8bf93.js"
   ]
 }
